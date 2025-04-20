@@ -82,7 +82,7 @@ span{
     align-items: center;
     gap: 7em;
     padding:30px 12% 0;
-    flex-direction: column;
+    /* flex-direction: column; */
 }
 .home-content{
     max-width: 800px;
